@@ -1,0 +1,16 @@
+{
+  "iri": "afdc951e-ba18-440f-b880-d1c811b5088a",
+  "projectIri": "afdc951e-ba18-440f-b880-d1c811b5088a",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2025-12-16T19:37:29.535Z",
+    "modificationDate": "2025-12-16T19:37:29.726Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2025-12-20T15:59:13.037Z",
+  "_exportedBy": "http://localhost:3100"
+}

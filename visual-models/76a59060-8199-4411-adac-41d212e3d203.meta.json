@@ -1,0 +1,16 @@
+{
+  "iri": "76a59060-8199-4411-adac-41d212e3d203",
+  "projectIri": "76a59060-8199-4411-adac-41d212e3d203",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2025-12-14T18:10:17.606Z",
+    "modificationDate": "2025-12-14T18:10:17.776Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2025-12-20T15:59:13.025Z",
+  "_exportedBy": "http://localhost:3100"
+}
